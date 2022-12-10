@@ -1,0 +1,11 @@
+EMAIL, NAME, SURNAME, TEL, CITY
+, Alexander, Skopin, 9631156, Sosnovy Bor
+, Nikita, Kondrakhin, 1234567, Sosnovy Bor
+, John, Christenson, 7654321, New York
+, Pasha, Dannikov, 3216547, Sydney
+, , , ,
+, Ilya, Kalinin, 7651234, Mexico
+, Scott, Philipps, 3123215, Miami
+, f, f, f, f
+, Yongzheng, Zhao, 9874561, Brisbane
+, Garrett, Williams, 43271459, Boston
