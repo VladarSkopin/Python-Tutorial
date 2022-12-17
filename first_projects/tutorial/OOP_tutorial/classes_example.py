@@ -1,5 +1,4 @@
 class Person:
-
     num_of_eyes = 2
 
     def __init__(self, name='n/a', age=0, salary=0.0):  # constructor with initial fields
