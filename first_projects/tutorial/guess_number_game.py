@@ -1,6 +1,6 @@
 import random
 
-number_to_guess = random.randint(0, 3)
+number_to_guess = random.randint(0, 100)
 
 print('Guess the generated number: ')
 
