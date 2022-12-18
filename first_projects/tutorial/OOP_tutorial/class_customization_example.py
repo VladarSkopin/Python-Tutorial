@@ -7,6 +7,9 @@ class Student:
         self.age = age
         self.score = score
 
+    def get_score(self):
+        return self.score
+
     def __lt__(self, other):  # less than
         if self.score < other.score:
             return True
