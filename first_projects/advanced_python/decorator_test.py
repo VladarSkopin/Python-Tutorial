@@ -15,3 +15,12 @@ def easy_function():
 decorated_function = self_decorator(easy_function)  # perform decoration
 
 decorated_function()
+
+
+@self_decorator
+def some_decorated_function():
+    print("Hello I am decorated!")
+
+
+some_decorated_function()
+
