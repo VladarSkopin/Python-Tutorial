@@ -17,4 +17,3 @@ CPUPainter()
 CPUPainter()
 CPUPainter()
 CPUPainter()
-print(__name__)  # __main__
